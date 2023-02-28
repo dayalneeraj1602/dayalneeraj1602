@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenbasyal&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayalneeraj1602&theme=monokai">
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dayalneeraj1602&theme=monokai">&nbsp;
