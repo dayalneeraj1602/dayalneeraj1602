@@ -4,7 +4,7 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;MERN+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12"> -->
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dayalneeraj1602&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbasyal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dayalneeraj1602&label=Profile%20views&color=0e75b6&style=flat" alt="dayalneeraj1602 " /> </p>
 <!--GitHub Streak-->
 <p align="center"><img alt="Neeraj dayal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dayalneeraj1602&theme=dark&hide_border=true"></p>
 <!-- Spotify Music-->
@@ -31,7 +31,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dayalneeraj1602&theme=monokai">
 </p>
 <!--GitHub Stats-->
-<p align="center"><img alt="naveenbasyal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dayalneeraj1602&theme=blue-green&hide_border=true"></p>
+<p align="center"><img alt="dayalneeraj1602's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dayalneeraj1602&theme=blue-green&hide_border=true"></p>
 <br>
 <!-- Language and Tools -->
 <h1 align="center">Languages and Tools</h1>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 </p>
 <p align="center">
-  <img src ="https://img.shields.io/badge/https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -74,7 +74,7 @@
 <br>
 
 :dart: Wish to be a part of a revolutionary technology in its making  
-:telescope: Working on my skills in MERN , Back-End Development and Problem Solving  
+:telescope: Working on my skills in DSA ,Web  Development and Problem Solving  
 :seedling: Learning  Node Js and Express
 :eyes: Looking forward to collaborate and working on interesting problems  
 :bulb: Reading research papers is one of my recent hobbies  
